@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Lazy Developer<br>I'm a junior back-end developer who is interested in networking and security.<br>I'm currently learning Flutter.</p>
+<p align="left">My name is Lazy Developer<br>I'm a junior back-end developer who is interested in networking and security.</p>
 
 ###
 
